@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+logs/
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+jspm_packages/
+
+# Production
+dist/
+build/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
